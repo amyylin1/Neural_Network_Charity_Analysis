@@ -42,7 +42,7 @@ Compiling, training, and evaluating the model:
 5.  increase epochs to 100
         
         # train the model
-        fit_model = nn_model.fit(X_train_scaled, y_train, epochs=50)
+        fit_model = nn_model.fit(X_train_scaled, y_train, epochs=100)
         
 
 ### Summary
