@@ -47,4 +47,4 @@ Compiling, training, and evaluating the model:
 
 ### Summary
 
-Overall, the model performs rather poorly (high loss and low performance). The raw data may contain outliers and noise that distract the performance. 
+Overall, the model performs rather poorly (high loss and low performance). The raw data may contain outliers and noisy variables that distract the performance. 
