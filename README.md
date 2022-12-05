@@ -34,10 +34,10 @@ Compiling, training, and evaluating the model:
 4.  add third and four hidden layers (more computation power)
 
         # third hidden layer
-        nn_model.add(tf.keras.layers.Dense(units=60, activation='relu'))
+        nn_model.add(tf.keras.layers.Dense(units=40, activation='relu'))
         
         # fourth hidden layer
-        nn_model.add(tf.keras.layers.Dense(units=40, activation='sigmoid'))
+        nn_model.add(tf.keras.layers.Dense(units=20, activation='sigmoid'))
         
 5.  increase epochs to 100
         
